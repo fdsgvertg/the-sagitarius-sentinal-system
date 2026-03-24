@@ -1,4 +1,5 @@
-# 
+# Computer chat bot
+
  local-first AI companion system that runs across a **PC server** and an **Android app**, designed to provide intelligent, context-aware assistance using on-device and hybrid retrieval (RAG).
 
 ---
